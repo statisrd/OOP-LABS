@@ -1,0 +1,25 @@
+	Rattata  	1
+	Arboliva  	9
+	Snomier  	8
+	Haunter  	1
+	Ivysaur  	1
+	Lopunny  	4
+	Slugma  	2
+	Swablu  	3
+	Aggron  	3
+	Crobat  	2
+	Escaval  	5
+	Diglett  	1
+
+	Rattata  	1
+	Haunter  	1
+	Ivysaur  	1
+	Diglett  	1
+	Slugma  	2
+	Crobat  	2
+	Swablu  	3
+	Aggron  	3
+	Lopunny  	4
+	Escaval  	5
+	Snomier  	8
+	Arboliva  	9
